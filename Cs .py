@@ -49,3 +49,17 @@
 
 # else:
 #     print("not a multiple")
+
+
+
+# username =input("enter unsername: ")
+# password = input("enter password: ")
+
+
+# if (username == "admin" and password == "pass"):
+#     print("login sucssfull")
+
+# elif (username!= "admin"):
+#     print("wrrong username")
+# else:
+#     print("wrong password")
