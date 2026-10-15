@@ -84,10 +84,36 @@
 #     print(var)
 
 
-value = "vansh pati"
-for fan in value:
-    print(fan)
+# value = "vansh pati"
+# for fan in value:
+#     print(fan)
 
+# value = "vansh pati"
+# for fan in value:
+#     print(fan)
+
+
+
+# aarav = "hello world"
+
+# for gang in aarav:
+#     print(gang)
+
+
+word = ("artificial intelligence")
+
+count = 0
+for ch in word:
+    if(ch =='i'):
+        count+=1
+print("total no of i found in word ", count)
+
+# word = "artificial intellegence"
+# ans = 0
+# for ch in word:
+#     if (ch =='a'):
+#         ans +=1 
+# print("total found =", ans)
 
 
 
