@@ -100,13 +100,13 @@
 #     print(gang)
 
 
-word = ("artificial intelligence")
+# word = ("artificial intelligence")
 
-count = 0
-for ch in word:
-    if(ch =='i'):
-        count+=1
-print("total no of i found in word ", count)
+# count = 0
+# for ch in word:
+#     if(ch =='i'):
+#         count+=1
+# print("total no of i found in word ", count)
 
 # word = "artificial intellegence"
 # ans = 0
@@ -114,6 +114,36 @@ print("total no of i found in word ", count)
 #     if (ch =='a'):
 #         ans +=1 
 # print("total found =", ans)
+
+# for i in range(5):
+#     print(i)
+
+# for i in range(1,5):
+    # print(i)
+
+# for i in range(1,11,2):
+#     print(i)
+
+# for i in range(2,10,2):
+#     print(i)
+
+# n = int(input("enter no = "))
+# sum = 0 
+# for i in range (1,n+1):
+#     sum +=i 
+
+# print("sum = ", sum)
+
+
+
+n = int(input("enter your number = "))
+sum = 0
+for i in range (1,n+1):
+    sum +=i 
+
+print("sum = ", sum)
+
+
 
 
 
