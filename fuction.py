@@ -48,13 +48,18 @@
 # print(cal_fact(n))
 
 
-def calt_fun(5):
-    fact = 1
-    for i  in range(1, 5):
-        fact *= i
-    return fact
+# def calt_fun(n):
+#     fact = 1
+#     for i  in range(1, 5):
+#         fact *= i
+#     return fact
 
-print(cal_fact(5))
+# n = int(input("ener ur number "))
+
+# print(calt_fun(n))
+
+
+
     
 
     
