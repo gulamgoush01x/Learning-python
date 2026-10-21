@@ -63,3 +63,20 @@
 #     print("wrrong username")
 # else:
 #     print("wrong password")
+
+
+
+
+
+# colour = "green","yellow","red"
+
+colour = input("enter your colour = ")
+
+if colour == "green":
+    print("go")
+elif colour == "yellow":
+    print("wait")
+elif colour == "red":
+    print("stop")
+else:
+    print("wrong colour")
